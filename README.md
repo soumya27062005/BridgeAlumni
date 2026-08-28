@@ -41,3 +41,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+Totally Designed By Soumya Gupta
